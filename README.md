@@ -75,6 +75,3 @@ The application uses environment variables for configuration. Create a `.env` fi
 - RabbitMQ integration is in `rabbit.py`
 - All integration logic is asynchronous (asyncio)
 - See thesis for detailed algorithm description and workflow diagrams
-
----
-This is an expanded README for thesis documentation. Do not overwrite the original README if present.
